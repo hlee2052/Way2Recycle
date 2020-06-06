@@ -1,9 +1,6 @@
 # CPSC436I_Project
 CPSC436I_Project
 
-#####https://way2recycle.herokuapp.com/
-
-
 available on http://way2recycle.herokuapp.com/
 
 ## Project Description
